@@ -164,6 +164,7 @@ header nav {
   padding: 30px;
   /* background-color: rgba(255, 127, 80, 0.74); */
   border-radius: 3px;
+  text-align: center;
   
 }
 
@@ -182,6 +183,8 @@ header nav {
   box-shadow: 5px 5px 8px 1px #919191;
   border-radius: 5px;
   color: #6e6e6e;
+  text-align: center;
+  border: 1px solid red;
 }
 
 
