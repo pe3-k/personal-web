@@ -4,8 +4,8 @@ $(function(){
   $("#logo").hide();
   $("#logo").fadeIn(600);
   $(".hero h1").hide();
-  $(".hero h1").fadeIn(600);
+  $(".hero h1").fadeIn(700);
   $(".hero p").hide();
-  $(".hero p").fadeIn(600);
+  $(".hero p").fadeIn(700);
 })
 
